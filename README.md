@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+Trix is a Tyrannosaurus rex specimen excavated in 2013 in the U.S. state of Montana by a team of paleontologists from the Naturalis Biodiversity Center in Leiden, Netherlands. It is the oldest known Tyrannosaurus specimen, with an age of more than 30 years, and has been considered the third most complete tyrannosaurus found, with between 75% to 80% of its bone volume recovered and is the only Tyrannosaurus specimen on permanent exhibit in mainland Europe
